@@ -1,2 +1,3 @@
 # learn-git
-repository to learn git 
+
+This is a repository to learn git 
